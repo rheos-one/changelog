@@ -5,7 +5,19 @@
 		<title>Changelog for Rheos One</title>
 	</head>
 	<body>
-		<iframe src="legal.md"></iframe>
-		<iframe src="changes.md"></iframe>
+		# 2019.08.29 Changelog
+		Met with documentation lead to discuss path forward.
+		Obtained buy-in for infrastructure offering meta, deferred prototype selection to end-of-day.
+
+		Load balancer spec agreed upon, as a precursor for any/all auto-scaling infrastructure.
+
+		Added numeric flag to functions.sh `com/namer.sh` subfunction.
+		@todo - update defaults for `com/namer.sh` to length of 5, with numeric division for clarity.
+		(possible combinations from these defaults increase from `392882600736521` (`73241*73241*73241`) to `3.92882600736521e16` (`73241*10*73241*10*73241`), which is...probably excessive, but format of `numberal3split5words` is easier to remember, and the function will be used to name the automated infrastructure)
+
+		Submitted [vultr-cli PR](https://github.com/vultr/vultr-cli/pull/47), based on difficulties encountered when switching from Debian (remote) dev to OSX local dev.
+
+		Created Github org for Rheos One.
+		Need to get profile IDs for team members.
 	</body>
 </html>
