@@ -1,3 +1,14 @@
+# 2019.08.30
+Met with prospective editor, as well as a future scientist.  
+
+Discussed launch loop project with documentation lead, created diagrams for explaining cross section and landing/energy/control mechanisms.
+
+Extended conversation into the truth mapper, along with a deep dive into project governance and the process of relinquishing control.
+
+Identified three potential developers for the project, two backend primaries and one frontend primary, and established LaTeX as the 'publishing' documentation paradigm, with Markdown and Dia used for development and graphical representation of information, respectively.
+
+Tested ZenPhone with Republic Wireless SIM, verified 4G works, need to verify SMS/MMS and voice call capabilities.
+
 # 2019.08.29 Changelog
 Met with documentation lead to discuss path forward.  
 Obtained buy-in for infrastructure offering meta, deferred prototype selection to end-of-day.  
