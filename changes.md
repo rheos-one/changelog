@@ -1,3 +1,24 @@
+# 2019.09.01
+Brief discussion about a potential pivot, should file storage & associated services not pan out relatively well.
+
+Moved the BattleWaggon, attended a birthday party.
+
+Sync'd the ABP archive between GitLab and BadFruit, ran updates, and took the system offline for upcoming travel period.
+
+# 2019.08.31
+Progress on functions.sh before breakfast.  
+Checkin with documentation lead on next steps.  
+Gained buy-in from documentation and frontend recruit.  
+Clarified meta-repo purpose and division of work for establishing necessary structure.  
+Obtained quote for two bare-metal backend server options.  
+Pruned work priorities and set work-end conditions for copyedit lead.  
+
+Scheduled fashion demo with contract client and design lead.  
+
+Made decision on Academy & Theatre projects (flagged for archive).  
+
+Additional recruitment efforts for photography & development departments.
+
 # 2019.08.30
 Met with prospective editor, as well as a future scientist.  
 
