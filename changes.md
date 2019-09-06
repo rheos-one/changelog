@@ -1,3 +1,29 @@
+# 2019.09.05
+Housecleaning, then a 400km drive.
+
+Brief meeting with documentation and design leads, mischief lead in attendance.
+
+Scheduled meta-activities for tomorrow's workday.
+
+# 2019.09.04
+Introspection and planning.
+
+Coached the design lead through the initial stages of a prioritization task set.
+
+# 2019.09.03
+Rest day. Minimal work.
+
+Did some reading, watched a bit of media.
+
+Moved the BattleWaggon to staging point for northward trip.
+
+# 2019.09.02
+Created baseline ruleset for resisting.
+
+Contacted journalism candidate, emphasized safety and difficulties of verifiable identity in the digital age.
+
+Housecleaning.
+
 # 2019.09.01
 Brief discussion about a potential pivot, should file storage & associated services not pan out relatively well.
 
