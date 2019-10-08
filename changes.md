@@ -1,3 +1,26 @@
+# 2019.10.08
+@1254 
+So far today:
+* Contacted legal team regarding transportation recovery.
+* - Deputy department was contacted yesterday, notes end.
+* - Updated contact preferences for this case, need to followup to make sure preference globally is set as well.
+* Contacted telco regarding hardline network connection.
+* Updating the changelog post-drive...
+
+@1258
+- finding the hard schedule to determine days since last updated, for the statistics department.
+
+@1300
+- found hard schedule.
+- calculating days
+
+@1301
+- 33 (±1) days
+
+I'll at least make a dent in that.
+What was it we did yesterday?
+# 2019.10.07 
+
 # 2019.09.05
 Housecleaning, then a 400km drive.
 
