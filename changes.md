@@ -1,3 +1,8 @@
+# 2019.11.01
+Services offline intermittantly for upgrades.
+
+Thank you for your patience.
+
 # 2019.09.08
 Created digital download microsite, hosted externally.  
 Discussed and vetted text with team, integrating edits from design lead.  
