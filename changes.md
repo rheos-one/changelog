@@ -1,3 +1,14 @@
+# 2019.11.11
+Catchup day.
+
+Preparing feedback for potential contract provider.
+Tuning corporate site via feedback from design lead.
+Social cat herding and teambuilding.
+
+Unloaded 2/3 of Dreadnaught.
+
+Sorting of reclaim from cleanup is ongoing.
+
 # 2019.10.08
 @1254 
 So far today:
