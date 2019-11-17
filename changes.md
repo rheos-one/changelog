@@ -1,3 +1,7 @@
+# 2019.11.15
+
+Collaborated with design lead to finalize and send devops contract proposal.
+
 # 2019.11.14
 Media analysis and archiving process commences.
 Cloud storage w/ backups confirmed, local storage auxillery in progress.
