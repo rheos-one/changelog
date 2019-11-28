@@ -1,3 +1,14 @@
+# 2019.11.27
+
+Processing red tape for fee waivers.
+
+Brought 3d printer online briefly.
+Hotend not coming on, need to debug.
+
+Badfruit brought online, port forwarding scaffolding scripted.
+
+Student portal created, alpha class testing begins.
+
 # 2019.11.14
 Media analysis and archiving process commences.
 Cloud storage w/ backups confirmed, local storage auxillery in progress.
