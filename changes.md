@@ -8,6 +8,46 @@ Hotend not coming on, need to debug.
 Badfruit brought online, port forwarding scaffolding scripted.
 
 Student portal created, alpha class testing begins.
+# 2019.11.21
+Recruiter collaboration.
+
+Healthcare paperwork.
+
+Crowdfunding initiative copyedits.
+
+# 2019.11.20
+Progress on functions.sh and public profiles.
+
+Contract negotiation.
+
+Inventory and organizing.
+
+# 2019.11.19
+
+Groceries obtained.
+Hard crash.
+
+Recharge day.
+
+# 2019.11.18
+
+Aesthetics design implementation, result: blue.
+
+Hardware purchasing.
+
+# 2019.11.16
+
+Associate intake appointment.
+
+Refueling.
+
+Transportation updates:
+* Dreadnaught to maintenance bay.
+* Ragnorak requisitioned.
+
+# 2019.11.15
+
+Collaborated with design lead to finalize and send devops contract proposal.
 
 # 2019.11.14
 Media analysis and archiving process commences.
