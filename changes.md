@@ -1,3 +1,14 @@
+# 2019.12.03
+
+Groceries and medication run.  
+Food prep.
+
+Edu assignments prep.
+
+# 2019.12.02
+
+Battlewaggon de-lidded and moved into position next to the forge.
+
 # 2019.11.27
 
 Processing red tape for fee waivers.
