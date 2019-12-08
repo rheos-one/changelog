@@ -1,3 +1,9 @@
+# 2019.12.06
+
+Solar project imtake was two bars of charge.
+
+Begin onlining push for NunEDU and Thorn Valley.
+
 # 2019.12.03
 
 Groceries and medication run.  
