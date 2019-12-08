@@ -1,3 +1,25 @@
+# 2019.12.03
+
+Groceries and medication run.  
+Food prep.
+
+Edu assignments prep.
+
+# 2019.12.02
+
+Battlewaggon de-lidded and moved into position next to the forge.
+
+# 2019.11.27
+
+Processing red tape for fee waivers.
+
+Brought 3d printer online briefly.
+Hotend not coming on, need to debug.
+
+Badfruit brought online, port forwarding scaffolding scripted.
+
+Student portal created, alpha class testing begins.
+
 # 2019.11.21
 Recruiter collaboration.
 
@@ -24,17 +46,6 @@ Recharge day.
 Aesthetics design implementation, result: blue.
 
 Hardware purchasing.
-
-# 2019.11.27
-
-Processing red tape for fee waivers.
-
-Brought 3d printer online briefly.
-Hotend not coming on, need to debug.
-
-Badfruit brought online, port forwarding scaffolding scripted.
-
-Student portal created, alpha class testing begins.
 
 # 2019.11.16
 
