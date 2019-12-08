@@ -25,6 +25,17 @@ Aesthetics design implementation, result: blue.
 
 Hardware purchasing.
 
+# 2019.11.27
+
+Processing red tape for fee waivers.
+
+Brought 3d printer online briefly.
+Hotend not coming on, need to debug.
+
+Badfruit brought online, port forwarding scaffolding scripted.
+
+Student portal created, alpha class testing begins.
+
 # 2019.11.16
 
 Associate intake appointment.
