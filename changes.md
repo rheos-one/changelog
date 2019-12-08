@@ -1,4 +1,14 @@
+# 2019.12.07
+
+Shopping cart online with 3x test items.
+
+LiberaPay organization page online.
+
+Digital media sorting.
+
 # 2019.12.06
+
+Digital media sorting and optimization.
 
 Solar project imtake was two bars of charge.
 
