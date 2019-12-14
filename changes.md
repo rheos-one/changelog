@@ -1,3 +1,105 @@
+# 2019.12.13
+
+Catching up on the office today.
+
+Sorting stacks into boxes, and boxes into stacks.
+
+Emptied a thing or two.
+
+Challenges overcome today:
+* going outside (agoraphobia is no joke, yo).
+* vits and meds (with coffee & tea).
+* Outbox sorting.
+* Virtual Assistant tasking.
+* Host family update email.
+* Local print solution setup.
+* Name change paperwork organize.
+* Social security paperwork fill & print.
+* Patreon creator account page incremental update.
+* LiberaPay team page edits.
+* Wishlist prune, comment, & update.
+* Model train station lift & move.
+* Ongoing contract work search.
+
+# 2019.12.07
+
+Shopping cart online with 3x test items.
+
+LiberaPay organization page online.
+
+Digital media sorting.
+
+# 2019.12.06
+
+Digital media sorting and optimization.
+
+Solar project imtake was two bars of charge.
+
+Begin onlining push for NunEDU and Thorn Valley.
+
+# 2019.12.03
+
+Groceries and medication run.  
+Food prep.
+
+Edu assignments prep.
+
+# 2019.12.02
+
+Battlewaggon de-lidded and moved into position next to the forge.
+
+# 2019.11.27
+
+Processing red tape for fee waivers.
+
+Brought 3d printer online briefly.
+Hotend not coming on, need to debug.
+
+Badfruit brought online, port forwarding scaffolding scripted.
+
+Student portal created, alpha class testing begins.
+
+# 2019.11.21
+Recruiter collaboration.
+
+Healthcare paperwork.
+
+Crowdfunding initiative copyedits.
+
+# 2019.11.20
+Progress on functions.sh and public profiles.
+
+Contract negotiation.
+
+Inventory and organizing.
+
+# 2019.11.19
+
+Groceries obtained.
+Hard crash.
+
+Recharge day.
+
+# 2019.11.18
+
+Aesthetics design implementation, result: blue.
+
+Hardware purchasing.
+
+# 2019.11.16
+
+Associate intake appointment.
+
+Refueling.
+
+Transportation updates:
+* Dreadnaught to maintenance bay.
+* Ragnorak requisitioned.
+
+# 2019.11.15
+
+Collaborated with design lead to finalize and send devops contract proposal.
+
 # 2019.11.14
 Media analysis and archiving process commences.
 Cloud storage w/ backups confirmed, local storage auxillery in progress.
