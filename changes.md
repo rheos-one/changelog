@@ -1,3 +1,31 @@
+# 2019.12.15
+A very catchup day, but slowly.
+
+Half a load of dishes. Laundry.
+Boned two conainers of turkey, for freezing.
+Re-sync'd browser account on a mobile device.
+
+This update log is simultaneously motivation and determination.
+Some days, a barely-remembered missed opportunity.
+Others, unremembered completely.
+
+And then a pattern of logging, disrupted by a stretch of low-spoon days.
+
+How long will this last?
+
+# 2019.12.14
+FriendsGiving.
+
+But first, breakfast with the parental at the local cult.
+Small wins, and reinforcing an attitude of opennes and gentle boundaries.
+They still deadname me constantly.
+
+Fried bird bits in oil for the first time today.  
+There was alcohol and potatos and gravy and deviled eggs.  
+So often, our chosen family supports us better than blood or biology.
+
+Navigated a new house, drove multiple times, and only needed one dose of caffiene...and this is *after* working most of the night prepping paperwork, napping at the office, and the breakfast with the parental.
+
 # 2019.12.13
 
 Catching up on the office today.
@@ -20,6 +48,9 @@ Challenges overcome today:
 * Wishlist prune, comment, & update.
 * Model train station lift & move.
 * Ongoing contract work search.
+* Name update research and paperwork.
+* Education project onboarding and counseling.
+* 
 
 # 2019.12.07
 
