@@ -1,4 +1,15 @@
+# 2019.12.16
+> Monday.
+Utility scheduling.
+Diagramming the proposed dig location.
+
+Devops/SRE/Blacksmithing applications, using approach-and-discuss methods (6x).
+
+
+3DPrinter repair & reassembly.
+
 # 2019.12.15
+> Sunday.
 A very catchup day, but slowly.
 
 Half a load of dishes. Laundry.
