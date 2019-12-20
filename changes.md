@@ -1,3 +1,31 @@
+# 2019.12.20
+> Friday ()
+Breakfast with the professor.
+Discussed NunEDU & the DarkPi project, and obtained verbal committment to consult on the manufacturing optimization process.
+
+Composing crowdfunding updates, thank-you notes to backers, and responding to queries about the DarkPi project.
+
+Troubleshooting the DarkPi dev unit failing to boot completely.
+Bitrot suspected, attempting recovery of essential data for a re-imaging.
+
+Nomad is dead, long live ShardSwarm.
+
+# 2019.12.19
+> Thursday (11.5h work time)
+DarkPi staging & dev prep.
+
+Ko-Fi updates.
+
+Ragnorak dehumidify, clean, & maintenance.
+
+# 2019.12.18
+> Wednesday
+Social security paperwork.
+Nutrition class.
+Groceries.
+
+Downtime.
+
 # 2019.12.16
 > Monday.
 Utility scheduling.
