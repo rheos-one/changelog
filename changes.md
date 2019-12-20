@@ -1,5 +1,5 @@
 # 2019.12.20
-> Friday ()
+> Friday (hours accumulating)
 Breakfast with the professor.
 Discussed NunEDU & the DarkPi project, and obtained verbal committment to consult on the manufacturing optimization process.
 
