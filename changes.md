@@ -1,5 +1,18 @@
+# 2019.12.21
+> Saturday (16.5h ongoing)
+
+History and inspiration post to infosite.
+Pictures & polls & patreon posts.
+DarkPi crowdfunding launch.
+
+Moderation rabbit trail for TC<->WL.
+HedKog v0.0.x glamour shot.
+
+Rituals & meditations.
+
+
 # 2019.12.20
-> Friday (13.5h work time)
+> Friday (13.5h)
 Breakfast with the professor.
 Discussed NunEDU & the DarkPi project, and obtained verbal committment to consult on the manufacturing optimization process.
 
@@ -11,7 +24,7 @@ Bitrot suspected, attempting recovery of essential data for a re-imaging.
 Nomad is dead, long live the shard swarm.
 
 # 2019.12.19
-> Thursday (11.5h work time)
+> Thursday (11.5h)
 DarkPi staging & dev prep.
 
 Ko-Fi updates.
