@@ -1,9 +1,48 @@
+# 2019.12.26
+> Thursday (3.2h, ongoing)
+
+Laundry & DarkPi scripting.
+
+Holiday debris cleanup.
+
+Bracing & breathing for the new year.
+
+# 2019.12.25 
+> Wednesday (1.1h)
+
+Foamcrete soft contract.
+
+Team reprioritization, recruitment.
+
+# 2019.12.24
+> Tuesday (3.7h)
+
+Food prep.
+
+Bracing for tomorrow's social.
+
+# 2019.12.23
+> Monday (5.7h (* 2) + 2.4h)
+
+Paperwork catchup & post-holiday scheduling.
+
+Todo list compile.
+
+Pair programming.
+
+# 2019.12.22
+> Sunday (0.4h (6.9-6.5))
+
+Rest day.
+
+Wrote about rest.
+
 # 2019.12.21
-> Saturday (16.5h ongoing)
+> Saturday (16.5h & 6.5h)
 
 History and inspiration post to infosite.
 Pictures & polls & patreon posts.
-DarkPi crowdfunding launch.
+DarkPi crowdfunding pre-launch.
 
 Moderation rabbit trail for TC<->WL.
 HedKog v0.0.x glamour shot.
