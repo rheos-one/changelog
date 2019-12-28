@@ -1,5 +1,16 @@
+# 2019.12.27
+> Friday (11.55h)
+
+Holiday food prep cleanup.
+Dehumidifying.
+Laundry and textiles sorting.
+
+Cards ordered.
+
+DarkPi onlining.
+
 # 2019.12.26
-> Thursday (3.2h, ongoing)
+> Thursday (7.2h)
 
 Laundry & DarkPi scripting.
 
