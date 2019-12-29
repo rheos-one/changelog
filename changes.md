@@ -1,3 +1,17 @@
+# 2019.12.28
+> Saturday (10.7h, ongoing)
+
+Late start.
+Pancakes for breakfast.
+
+Local resource negotiation.
+
+Impromtu meeting with an uncle.
+
+Moving the lathe into place.
+
+Constituants updates.
+
 # 2019.12.27
 > Friday (11.55h)
 
@@ -8,6 +22,8 @@ Laundry and textiles sorting.
 Cards ordered.
 
 DarkPi onlining.
+
+FoamCrete contract negotiation.
 
 # 2019.12.26
 > Thursday (7.2h)
