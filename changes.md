@@ -1,5 +1,23 @@
+# 2019.12.30
+> Monday (10.2h)
+Late start.
+
+Groceries and supplies.
+Prep for new year's eve social opportunities.
+Constituant scheduling communication.
+
+# 2019.12.29
+> Sunday (6.3h)
+Catchup day.
+
+Cleaning, laundry, dishes.
+Food prep, dehumidifying.
+Showers.
+
+DarkPi design meeting.
+
 # 2019.12.28
-> Saturday (10.7h, ongoing)
+> Saturday (14.1h)
 
 Late start.
 Pancakes for breakfast.
