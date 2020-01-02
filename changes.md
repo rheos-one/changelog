@@ -1,11 +1,21 @@
+# 2020.01.02
+0000->0730: Rest.
+0800->0900: Briefing.
+0930->1000: Transportation & parts.
+1030->1300: Battlestation troubleshooting, remote consult.
+1300->1530: Project operations (#WCHOA0).
+1600->(?): Cement-adjacent construction tooling design & prototype.
+
 # 2020.01.01
-> Wednesday (0.5h, ongoing)
+> Wednesday (3h)
 
 0000->0500: Constituant support operations (#PDXS0).
 0530->1100: Rest.
-1130->1400: Self care.
-1400->: PR operations (#CSBRV2, #SCGRV0, &).
-
+1130->1200: Queue & prioritizing.
+1230->1400: Self care.
+1430->1700: PR operations (#CSBRV2, #SCGRV0, #FC0, & ).
+1730->2200: Self care.
+2200->EOD: Rest.
 
 # 2019.12.31
 > Tuesday (23.7h)
