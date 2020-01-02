@@ -1,4 +1,6 @@
 # 2020.01.02
+> Thursday (6.4h, ongoing)
+
 0000->0730: Rest.
 0800->0900: Briefing.
 0930->1000: Transportation & parts.
