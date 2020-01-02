@@ -1,8 +1,8 @@
 In 2019, we intentionally set ourselves on the path towards leadership.
 
-We cannot stand idly by while "Never Again" rings hollow through the growing number of detainment centres and concentration camps. 
-
 As individuals of Jewish heritage, First Nations ancestry, and marginalized existence, our privilege, and our duty, is to make use of every tool at our disposal to resist.
+
+We, with means of production and anger in our bones, cannot stand idly by while "Never Again" rings hollow through the growing number of detainment centres and concentration camps. 
 
 And between engineering and finance,  
 business is a powerful tool indeed.
@@ -11,16 +11,6 @@ We do this for our family, found and blood alike.
 We do this for our ourselves, self-development and manifestation.  
 We do this for freedom of production.  
 
-
-~
-
-In 2020,  
-a means of productions is necessary.  
-Namely, an auto-extruder.
-
-Our efforts towards a garage-scale microfoundry have progressed, thanks in part to the excellent information available on the [Backyard Metal Casting](http://www.backyardmetalcasting.com/).
-
-Progress towards automated processing of raw materials into shaped stock is documented publicly on the [Kaelar Family Ko-Fi](https://www.ko-fi.com/kaelars/gallery). Updates as we have time to melt metal.
 
 ~
 

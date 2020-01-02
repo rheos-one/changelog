@@ -1,3 +1,22 @@
+# 2020.01.01
+> Wednesday (0.5h, ongoing)
+
+0000->0500: Constituant support operations (#PDXS0).
+0530->1100: Rest.
+1130->1400: Self care.
+1400->: PR operations (#CSBRV2, #SCGRV0, &).
+
+
+# 2019.12.31
+> Tuesday (23.7h)
+Late start.
+
+Prep, travel, and support operations for a constituant.
+
+Public relations soft launch.
+
+Champagne.
+
 # 2019.12.30
 > Monday (10.2h)
 Late start.
