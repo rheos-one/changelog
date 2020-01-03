@@ -1,7 +1,8 @@
 # 2020.01.03
-> Friday (0.25h, ongoing)
+> Friday (2h, ongoing)
 
-0000-(????): Project operations (#WCHOA0).
+0000->0200: Project operations (#WCHOA0).
+0230->0400: Rest.
 
 # 2020.01.02
 > Thursday (9.5h)
