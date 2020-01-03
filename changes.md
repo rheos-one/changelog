@@ -2,7 +2,8 @@
 > Friday (2h, ongoing)
 
 0000->0200: Project operations (#WCHOA0).
-0230->0400: Rest.
+0230->0830: Rest.
+0900->(????): Project operations (#WCHOA0).
 
 # 2020.01.02
 > Thursday (9.5h)
