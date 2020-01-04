@@ -3,7 +3,11 @@
 
 0000->0200: Project operations (#WCHOA0).
 0230->0830: Rest.
-0900->(????): Project operations (#WCHOA0).
+0900->1130: Project operations (#WCHOA0).
+1200->1230: Selfcare
+1300->1500: Transportation, supplies, and paperwork filing.
+1530->1700: Exercise.
+1730->(????): Project development (#FC0).
 
 # 2020.01.02
 > Thursday (9.5h)
