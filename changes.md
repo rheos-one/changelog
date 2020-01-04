@@ -1,12 +1,27 @@
+# 2020.01.03
+> Friday (2h, ongoing)
+
+0000->0200: Project operations (#WCHOA0).
+0230->0830: Rest.
+0900->1130: Project operations (#WCHOA0).
+1200->1230: Selfcare.
+1300->1500: Transportation, supplies, and paperwork filing.
+1530->1700: Exercise.
+1730->1930: Project development (#MT0).
+2000->2200: Meditations.
+2230->EOD: Project operations (#WCHOA0).
+
 # 2020.01.02
-> Thursday (6.4h, ongoing)
+> Thursday (9.5h)
 
 0000->0730: Rest.
 0800->0900: Briefing.
 0930->1000: Transportation & parts.
 1030->1300: Battlestation troubleshooting, remote consult.
 1300->1530: Project operations (#WCHOA0).
-1600->(?): Cement-adjacent construction tooling design & prototype.
+1600->2130: Cellular cement research & prototyping.
+2200->2300: Meditations.
+2330-EOD: Project operations (#WCHOA0).
 
 # 2020.01.01
 > Wednesday (3h)
